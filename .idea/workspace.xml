@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bec4a83d-8220-4919-80e7-b95015db9a65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/product_hunt/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/product_hunt/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/templates/products/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state relative-caret-position="324">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -62,11 +58,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/product_hunt/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="257">
+              <caret line="80" column="73" selection-start-line="80" selection-start-column="73" selection-end-line="80" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,10 +99,10 @@
         <option value="$PROJECT_DIR$/product_hunt/urls.py" />
         <option value="$PROJECT_DIR$/product_hunt/settings.py" />
         <option value="$PROJECT_DIR$/products/urls.py" />
-        <option value="$PROJECT_DIR$/product_hunt/templates/base.html" />
         <option value="$PROJECT_DIR$/products/templates/products/home.html" />
         <option value="$PROJECT_DIR$/products/views.py" />
         <option value="$PROJECT_DIR$/products/templates/products/detail.html" />
+        <option value="$PROJECT_DIR$/product_hunt/templates/base.html" />
       </list>
     </option>
   </component>
@@ -231,7 +232,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566993876543</updated>
-      <workItem from="1566993885264" duration="36381000" />
+      <workItem from="1566993885264" duration="37554000" />
     </task>
     <task id="LOCAL-00001" summary="commit for setting postgres for this project">
       <created>1566994775494</created>
@@ -279,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36381000" />
+    <option name="totallyTimeSpent" value="37554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="782" y="23" width="658" height="832" extended-state="0" />
@@ -446,6 +447,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/products/templates/products/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/products/templates/products/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -459,15 +467,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/product_hunt/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products/templates/products/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state relative-caret-position="257">
+          <caret line="80" column="73" selection-start-line="80" selection-start-column="73" selection-end-line="80" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
