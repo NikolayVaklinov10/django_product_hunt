@@ -37,7 +37,7 @@
     <header>
      <nav class="navbar navbar-expand-lg navbar-light bg-light">
          <div class="container">
-      <a class="navbar-brand" href="">
+      <a class="navbar-brand" href="{% url 'home' %}">
              <img src="{% static 'logo.png' %}" height=30 width=30 class="d-inline-block align-top"/>
           Product Hunt
       </a>
@@ -75,7 +75,7 @@
 
 
 <footer class="text-muted">
-  <div class="container text-center">
+  <div class="container text-center pb-3">
       <p>Have a happy {% now "Y" %}</p>
     </div>
 </footer>
